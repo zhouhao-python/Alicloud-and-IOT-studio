@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# mqtt服务
 # pip install paho-mqtt
 import paho.mqtt.client
 
