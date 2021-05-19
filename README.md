@@ -6,8 +6,11 @@
 https://www.notion.so/bbc39cc170264d6fa8c060c388a46855
 其中主要包括：
 
-1.基本阿里云物联网平台的使用介绍；
-2.IOT studio的使用功能介绍，其中会使用大量篇幅介绍IOT studio中的web 开发
-3.树莓派demo 和 茶园demo
-4. 使用软件包上传数据到阿里云
+1.基本阿里云物联网平台的使用介绍； 
+
+2.IOT studio的使用功能介绍，其中会使用大量篇幅介绍IOT studio中的web 开发；
+
+3.树莓派demo 和 茶园demo；
+
+4. 使用软件包上传数据到阿里云。
  
