@@ -1,3 +1,4 @@
+# 阿里云登录相关协议支持
 import time,json,random
 import hmac,hashlib
 
