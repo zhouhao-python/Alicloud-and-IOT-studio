@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# 主函数读取树莓派数据
+
 import aliLink,mqttd,rpi
 import time,json
 
