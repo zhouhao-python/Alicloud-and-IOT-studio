@@ -1,5 +1,6 @@
 # 树莓派数据与控制
 
+
 import os
 # Return CPU temperature as a character string                                     
 
